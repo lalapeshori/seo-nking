@@ -1,11 +1,38 @@
-<div align="center">
+# SEO-nking
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+**AI-powered SEO ranking analysis tool built with Google Gemini.**
 
-  <h1>Built with AI Studio</h2>
+SEO-nking helps you analyze, understand, and improve your website's search engine rankings using the power of Gemini. Get instant insights on keywords, content quality, on-page SEO factors, and competitive positioning — all through a conversational AI interface.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Features
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+- **Keyword Analysis** — Discover high-value keywords and assess ranking difficulty for your target topics.
+- **Content Optimization** — Get AI-driven recommendations to improve title tags, meta descriptions, headings, and body content.
+- **Competitor Benchmarking** — Compare your pages against top-ranking competitors and identify gaps.
+- **On-Page SEO Audit** — Detect common issues such as missing alt text, broken internal links, and slow page speed indicators.
+- **Ranking Insights** — Understand the factors driving rankings for any given query and receive actionable improvement steps.
 
-</div>
+## Getting Started
+
+### Prerequisites
+
+- A [Google AI Studio](https://aistudio.google.com) account and API key.
+
+### Run the App
+
+1. Open [Google AI Studio Apps](https://aistudio.google.com/apps).
+2. Import or open the `seo-nking` project.
+3. Enter your target URL or keyword and let Gemini do the analysis.
+
+## Built With
+
+- [Google Gemini](https://deepmind.google/technologies/gemini/) — Large language model for SEO reasoning and content analysis.
+- [Google AI Studio](https://aistudio.google.com) — Rapid prototyping and deployment platform.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+[MIT](LICENSE)
